@@ -1,0 +1,19 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+server
+api
+
+# Environment variables
+.env
+
+# Test & coverage
+*.out
+*.test
+
+# Database data
+pgdata/
